@@ -212,5 +212,6 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
  
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/ujwal-mendhe-0652b62ba/)
-- **LinkedIn**: [Connect with me professionally](https://github.com/Ujwal0712)
+- **Github**: [Connect with me professionally](https://github.com/Ujwal0712)
+
 Thank you for your support, and I look forward to connecting with you!
